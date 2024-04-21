@@ -82,7 +82,10 @@ endmodule
 */
  ```
 **RTL LOGIC FOR FLIPFLOPS**
+![7 1](https://github.com/vaishnavidevi23013992/JKFLIPFLOP-USING-IF-ELSE/assets/151864235/7f1ba898-2976-404d-afd9-39deec8184a7)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![7 2](https://github.com/vaishnavidevi23013992/JKFLIPFLOP-USING-IF-ELSE/assets/151864235/4202712f-5530-447f-8ab3-c30aae6c8803)
 
 **RESULTS**
+Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
